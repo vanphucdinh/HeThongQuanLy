@@ -1,8 +1,6 @@
 ﻿Imports System
 Public Class main
-    Private Sub HệThốngToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles hethongtmi.Click
 
-    End Sub
 
     Private Sub ThoátToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ThoátToolStripMenuItem.Click
         If MessageBox.Show("Bạn có muốn thoát không", "Thông báo", _
@@ -17,7 +15,7 @@ Public Class main
     End Sub
 
     Private Sub QuảnLýKhoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuảnLýKhoToolStripMenuItem.Click
-
+        'Click vào chức năng quản lý sản phẩm sẽ mở form quản lý sản phẩm'
         quanlysanphamfrm.Show()
     End Sub
 

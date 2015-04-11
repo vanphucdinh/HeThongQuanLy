@@ -26,3 +26,7 @@ D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\D
 D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmnhaploaisanpham.resources
 D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.quanlysanphamfrm.resources
 D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.vbproj.GenerateResource.Cache
+C:\Users\Dinh\Desktop\Github\Hethongquanly\HeThongQuanLy\bin\Debug\HeThongQuanLy.exe.config
+C:\Users\Dinh\Desktop\Github\Hethongquanly\HeThongQuanLy\obj\Debug\HeThongQuanLy.exe
+C:\Users\Dinh\Desktop\Github\Hethongquanly\HeThongQuanLy\obj\Debug\HeThongQuanLy.xml
+C:\Users\Dinh\Desktop\Github\Hethongquanly\HeThongQuanLy\obj\Debug\HeThongQuanLy.pdb
