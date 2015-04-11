@@ -1,0 +1,28 @@
+D:\VB\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.exe.config
+D:\VB\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.exe
+D:\VB\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.pdb
+D:\VB\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.xml
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.main.resources
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.Resources.resources
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.vbproj.GenerateResource.Cache
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.exe
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.xml
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.pdb
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.quanlysanphamfrm.resources
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmnhaploaisanpham.resources
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmlogin.resources
+D:\VB\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmabout.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.exe.config
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.exe
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.xml
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.pdb
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.exe
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.pdb
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\bin\Debug\HeThongQuanLy.xml
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmabout.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmlogin.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.main.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.Resources.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.frmnhaploaisanpham.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.quanlysanphamfrm.resources
+D:\dinhvpps01937_PT9301_INF205_Assignment GD 2\HeThongQuanLy\HeThongQuanLy\obj\Debug\HeThongQuanLy.vbproj.GenerateResource.Cache
